@@ -1,0 +1,8 @@
+streamlit
+folium
+networkx
+matplotlib.pyplot
+matplotlib.cm
+seaborn
+numpy
+pandas
